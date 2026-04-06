@@ -15,3 +15,5 @@
 
 
 ## 🔧 联系我：xiaolqy@qq.com (中国大陆法定节假日回复）-请勿用于非法用途，产生原因与我方无关
+
+## 修复请访问：https://github.com/FuRuiORG/ZJMF-noupstream
